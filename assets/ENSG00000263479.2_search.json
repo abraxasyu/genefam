@@ -1,0 +1,1 @@
+{"directed": false, "graph": {"name": "()"}, "nodes": [{"id": "ENSG00000264017.2"}, {"id": "ENSG00000263479.2"}, {"id": "ENSG00000197263.3"}], "links": [{"source": 0, "target": 1, "weight": 19.0}, {"source": 0, "target": 2, "weight": 8.0}], "multigraph": false}
